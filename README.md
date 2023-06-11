@@ -5,7 +5,7 @@
 <details>
   <summary markdown="span"><strong>:us: English</strong></summary><br />
 
-This project is a recipe app for iOS developed in Swift, using UIKit and storyboards. It is a recreation of a [React project](https://github.com/raphaelalmeidamartins/fine-flavor) that was originally developed in React during my time at Trybe.
+This project is a recipe app for iOS developed in Swift, using UIKit and storyboards. It is a recreation of a [project](https://github.com/raphaelalmeidamartins/fine-flavor) that was originally developed with **React** during my time at Trybe.
 
 The goal of the application is to allow users to search for meal and drink recipes by category. When users find an interesting recipe, they can start the recipe, mark it as completed, favorite it, or share it with others.
 
@@ -17,7 +17,7 @@ Currently, the project is still in progress as I am using it as an opportunity t
 <details>
   <summary markdown="span"><strong>:brazil: Português</strong></summary><br />
 
-Este projeto é um aplicativo de receitas para iOS desenvolvido em Swift, utilizando UiKit e storyboards. Ele é uma recriação de um [projeto React](https://github.com/raphaelalmeidamartins/fine-flavor) que foi originalmente desenvolvido em React durante a minha formação na Trybe.
+Este projeto é um aplicativo de receitas para iOS desenvolvido em Swift, utilizando UiKit e storyboards. Ele é uma recriação de um [projeto](https://github.com/raphaelalmeidamartins/fine-flavor) que foi originalmente desenvolvido em **React** durante a minha formação na Trybe.
 
 O objetivo do aplicativo é permitir que os usuários pesquisem receitas de refeições e bebidas por categoria. Ao encontrar uma receita interessante, o usuário pode iniciar a receita, marcá-la como concluída, favoritá-la ou compartilhá-la com outras pessoas.
 
